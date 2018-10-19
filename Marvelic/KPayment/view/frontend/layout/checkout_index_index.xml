@@ -16,7 +16,7 @@
 														<item name="renders" xsi:type="array">
 															<item name="children" xsi:type="array">
 																<item name="kpayment" xsi:type="array">
-																	<item name="component" xsi:type="string">Marvelic_KPayment/js/view/payment/kpayment</item>
+																	<item name="component" xsi:type="string">Marvelic_KPayment/js/view/payment/method-renderer</item>
 																	<item name="methods" xsi:type="array">
 																		<item name="kpayment" xsi:type="array">
 																			<item name="isBillingAddressRequired" xsi:type="boolean">true</item>
